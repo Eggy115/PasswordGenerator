@@ -12,7 +12,7 @@ Currently, the characters that are using in the passwords are:
 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T','U','V', 
 'W', 'X', 'Y', 'Z'
  
- Some of these keys may not work in some websites, so you can manually remove them, and you can also add more. Make sure you increase or decrease the number in "passw_letter = password[randint(0, 68)]".
+ Some of these keys may not work in some websites, so you can manually remove them, and you can also add more. Make sure you increase or decrease the number in "passw_letter = password[randint(0, 94)]".
 
 # Changelog
 
