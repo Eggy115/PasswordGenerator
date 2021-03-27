@@ -18,3 +18,5 @@ Currently, the characters that are using in the passwords are:
 
 - Added capital letters to Password Generator
 - Updated README.md
+- Added GUI
+- Added input for GUI
