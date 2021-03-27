@@ -20,4 +20,4 @@ Currently, the characters that are using in the passwords are:
 - Updated README.md
 - Added GUI
 - Added input for GUI
-- Added Try-Catch (in case seomthing goes wrong)
+- Added Try-Except (in case seomthing goes wrong)
